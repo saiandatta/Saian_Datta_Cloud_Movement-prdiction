@@ -1,0 +1,7 @@
+{
+  "name": "CloudMotion AI",
+  "description": "Predict future cloud patterns, kinematic vectors, and convective storm trajectory from image sequences with satellite retrieval and RAG analysis. IEM 4th Year Project.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
